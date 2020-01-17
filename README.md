@@ -30,10 +30,14 @@ Would you be willing to support the community / podcast financially? The money w
 * No
 * Other [fill-in]
 
+Where in the world is... the person answering this question?
+* [Country Select]
+
 Where else do you interact with folks from this community? [multi-select]
 * Twitter
 * HN
 * Lobsters
+* Reddit
 * Other (fill-in)
 
 Litmus test — thoughts on Bret Victor?
@@ -64,6 +68,7 @@ What FoC topics interest you most? [multi-select]
 * Distributed Programming (a la Unison, Dark)
 * Debuggers
 * Live Programming
+* Other [fill-in]
 
 ## Put Out The Fire
 
