@@ -24,6 +24,10 @@ Do you listen to the podcast?
 * No
 * I didn't know there was a podcast!
 
+Do you read/use the podcast transcripts?
+* Yes
+* No
+
 Would you be willing to support the community / podcast financially? The money would go to Ivan Reese, and would help cover his time spent and expenses incurred running the community and producing the podcast. [multi-select]
 * Yes, with a monthly donation (a la Patreon)
 * Yes, with a sponsorship
