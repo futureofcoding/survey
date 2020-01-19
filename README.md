@@ -38,6 +38,7 @@ If the podcast / community had a Patreon, would you potentially back it, and if 
 
 Are you or your company interested in sponsoring the podcast / community?
 * Yes, and I will DM you to get the ball rolling
+* Not right now, but possibly in the future
 * No
 
 Where in the world is... the person answering this question?
