@@ -109,7 +109,7 @@ The third option is a traditional server-driven message board / forum, something
 * I prefer staying with Slack
 * Neutral — Slack or forum, the amount I participate will be the same
 
-Now that you've seen the options, what's your top picks?
+Now that you've seen the options, what are your top picks?
 * Slack
 * Zulip
 * Discourse
