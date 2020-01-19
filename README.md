@@ -30,7 +30,7 @@ Do you read/use the podcast transcripts?
 * No
 
 If the podcast / community had a Patreon, would you potentially back it, and if so for how much?
-* Yes, for for less than $10/month
+* Yes, for less than $10/month
 * Yes, for more than $10/month
 * Yes, for exactly $771/month
 * No, and what's more your attempt to inject jokes into matters of money has not enticed me
