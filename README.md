@@ -28,6 +28,7 @@ Do you listen to the podcast?
 Do you read/use the podcast transcripts?
 * Yes
 * No
+* I didn't know there were transcripts!
 
 If the podcast / community had a Patreon, would you potentially back it, and if so for how much?
 * Yes, for less than $10/month
