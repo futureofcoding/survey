@@ -13,6 +13,7 @@ Roughly how often do you post to the FoC Slack?
 * Weekly
 * Monthly
 * I just lurk / read, and don't post.
+* I didn't know there was a Slack!
 
 Do you subscribe to the newsletter?
 * Yes
@@ -28,14 +29,24 @@ Do you read/use the podcast transcripts?
 * Yes
 * No
 
-Would you be willing to support the community / podcast financially? The money would go to Ivan Reese, and would help cover his time spent and expenses incurred running the community and producing the podcast. [multi-select]
-* Yes, with a monthly donation (a la Patreon)
-* Yes, with a sponsorship
+If the podcast / community had a Patreon, would you potentially back it, and if so for how much?
+* Yes, for for less than $10/month
+* Yes, for more than $10/month
+* Yes, for exactly $771/month
+* No, and what's more your attempt to inject jokes into matters of money has not enticed me
+
+Are you or your company interested in sponsoring the podcast / community?
+* Yes, and I will DM you to get the ball rolling
 * No
-* Other [fill-in]
 
 Where in the world is... the person answering this question?
 * [Country Select]
+
+How comfortable are you with English?
+* I'm comfortable with spoken and written English
+* I'm only comfortable with spoken English
+* I'm only comfortable with written English
+* I'm not comfortable with spoken or written English
 
 Where else do you interact with folks from this community? [multi-select]
 * Twitter
